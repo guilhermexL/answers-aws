@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="./assets/logo.png" href="https://escoladanuvem.org/">
+    <img src="./assets/logo.png">
 </div>
 
-Este repositório contém minhas respostas de atividades relacionadas ao curso Re/Start AWS no módulo de IA, ministrada pelo colaborador [Rafael Santos](https://www.linkedin.com/in/rafasantosbzr/).
+Este repositório contém minhas respostas de atividades relacionadas ao curso Re/Start AWS no módulo de IA na [Escola da Nuvem](https://escoladanuvem.org/), ministrada pelo colaborador [Rafael Santos](https://www.linkedin.com/in/rafasantosbzr/).
 
 ## Estrutura do Repositório
 
