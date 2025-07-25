@@ -23,6 +23,11 @@ Abaixo está a estrutura de pastas principal e uma breve descrição do que voc�
     - [Questão 02](./pratica-3/atv-2/)
     - [Questão 03](./pratica-3/atv-3/)
     - [Questão 04](./pratica-3/atv-4/)
+- **`Prática 04`**
+    - [Questão 01](./pratica-4/atv-1/)
+    - [Questão 02](./pratica-4/atv-2/)
+    - [Questão 03](./pratica-4/atv-3/)
+    - [Questão 04](./pratica-4/atv-4/)
 
 <div align="center">
     <h2>Que a força do conhecimento nos conecte!</h2>
