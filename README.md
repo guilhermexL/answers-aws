@@ -33,6 +33,16 @@ Abaixo está a estrutura de pastas principal e uma breve descrição do que voc�
     - [Questão 02](./pratica-5/atv-2/)
     - [Questão 03](./pratica-5/atv-3/)
     - [Questão 04](./pratica-5/atv-4/)
+- **`Prática 06`**
+    - [Questão 01](./pratica-6/atv-1/)
+    - [Questão 02](./pratica-6/atv-2/)
+    - [Questão 03](./pratica-6/atv-3/)
+    - [Questão 04](./pratica-6/atv-4/)
+- **`Prática 07`**
+    <!-- - [Questão 01](./pratica-7/atv-1/) -->
+    - [Questão 02](./pratica-7/atv-2/)
+    - [Questão 03](./pratica-7/atv-3/)
+    - [Questão 04](./pratica-7/atv-4/)
 
 <div align="center">
     <h2>Que a força do conhecimento nos conecte!</h2>
